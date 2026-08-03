@@ -1,7 +1,7 @@
 Hello!
 
-This is where I'll store notebooks from things I've worked on.
+This is a repository where I store notebooks from things I've worked on.
 
 Some of these are part of formal instruction, some are just for fun.
 
-It'll _mostly_ be neuro stuff. Probably?
+It is _mostly_ computational neuroscience stuff.
